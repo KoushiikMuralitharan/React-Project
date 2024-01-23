@@ -1,0 +1,8 @@
+.pics1{
+   width: 100%;
+   height: 102vh;
+   background-image: url('../images/Loginn2.jpeg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}

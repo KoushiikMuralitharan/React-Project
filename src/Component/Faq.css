@@ -1,0 +1,15 @@
+.faq{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    padding-top: 1px;
+    }
+    .faq1{
+     text-align:center;
+     font-size: 50px;
+     font-weight: bold;
+    }
+    .faq2{
+        display: flex;
+        padding: 50px;
+    }

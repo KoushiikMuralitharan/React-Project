@@ -1,0 +1,36 @@
+.content{
+    height:80vh
+}
+.bttn {
+    transition: all 0.3s ease-in-out;
+    font-family: "Dosis", sans-serif;
+  }
+  
+  .bttn {
+    width: 150px;
+    height: 60px;
+    border-radius: 50px;
+    background-image: linear-gradient(135deg, #feb692 0%, #ea5455 100%);
+    box-shadow: 0 20px 30px -6px rgba(238, 103, 97, 0.5);
+    outline: none;
+    cursor: pointer;
+    border: none;
+    font-size: 24px;
+    color: white;
+  }
+  
+  .bttn:hover {
+    transform: translateY(3px);
+    box-shadow: none;
+  }
+  
+  .bttn:active {
+    opacity: 0.5;
+  }
+  .tcolor{
+    margin-top: 10%;
+    color: black;
+  }
+ .mas{
+  margin-top: 2%;
+ }
